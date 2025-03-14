@@ -955,6 +955,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sun
       objectReference: {fileID: 0}
+    - target: {fileID: 3466875710697870427, guid: f098ce3ee1d91e248a1a67b4b74a6840, type: 3}
+      propertyPath: m_TagString
+      value: Sun
+      objectReference: {fileID: 0}
     - target: {fileID: 6349060098833856693, guid: f098ce3ee1d91e248a1a67b4b74a6840, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.004
@@ -1017,6 +1021,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Earth
       objectReference: {fileID: 0}
+    - target: {fileID: 5753086426781096624, guid: c765a58bba4392343a76dde8e2f5da44, type: 3}
+      propertyPath: m_TagString
+      value: Earth
+      objectReference: {fileID: 0}
     - target: {fileID: 7592595066537334527, guid: c765a58bba4392343a76dde8e2f5da44, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.021
@@ -1077,6 +1085,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1316718492424781819, guid: 442026fe6155c7648b5b4b934e30587d, type: 3}
       propertyPath: m_Name
+      value: Moon
+      objectReference: {fileID: 0}
+    - target: {fileID: 1316718492424781819, guid: 442026fe6155c7648b5b4b934e30587d, type: 3}
+      propertyPath: m_TagString
       value: Moon
       objectReference: {fileID: 0}
     - target: {fileID: 6174693750160280435, guid: 442026fe6155c7648b5b4b934e30587d, type: 3}
