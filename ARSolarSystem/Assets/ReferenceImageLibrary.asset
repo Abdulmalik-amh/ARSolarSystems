@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5213384167757920942
+  m_GuidHigh: 6845599711917139363
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5020624003078009216
+      m_GuidHigh: 8888872772507831432
+    m_SerializedTextureGuid:
+      m_GuidLow: 4991177427078083184
+      m_GuidHigh: 11422227364513049450
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Earth
+    m_Texture: {fileID: 2800000, guid: efeff270396c45446aeb8b3d45e7839e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5134419532134105717
+      m_GuidHigh: 18222130663287733899
+    m_SerializedTextureGuid:
+      m_GuidLow: 4063417526759178419
+      m_GuidHigh: 11095629649956314505
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Moon
+    m_Texture: {fileID: 2800000, guid: 3093c0b328b63864891df0246198fb99, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4839468362847133530
+      m_GuidHigh: 14665627837628095145
+    m_SerializedTextureGuid:
+      m_GuidLow: 2563689692933362147
+      m_GuidHigh: 16468218195963153177
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Sun
+    m_Texture: {fileID: 2800000, guid: 559f91e30e312394190b026632dd8ae4, type: 3}
